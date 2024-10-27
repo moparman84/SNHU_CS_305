@@ -8,11 +8,11 @@ What did you do particularly well in identifying their software security vulnera
 
 I enjoyed the static testing of my code to locate weaknesses was quite interesting; this is a kind of health check of your code in order to find possible problems before some attacker tries to exploit them.
 
-Why Secure Coding Matters
+Why Secure Coding Matters:
 
 Writing secure code is of great significance because such code protects not only your information but also those of the users of your software. The leakage of personal information or confidential business data brings severe damage to individuals and enterprises alike.
 
-Protection of Information and Reputation
+Protection of Information and Reputation:
 
 By paying attention to secure coding, you help to protect sensitive information. It helps you not only avoid data leakage but also a company's reputation from being spoiled over time. If users know their data is well-guarded, then they are more willing to continue using the software in question.
 
