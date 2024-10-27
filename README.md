@@ -6,7 +6,7 @@ Artemis Financial is a company that deals with money, and they want to make thei
 What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 I enjoyed the static testing of my code to locate weaknesses was quite interesting; this is a kind of health check of your code in order to find possible problems before some attacker tries to exploit them.
 
-Why Secure Coding Matters
+Why Secure Coding Matters\n
 Writing secure code is of great significance because such code protects not only your information but also those of the users of your software. The leakage of personal information or confidential business data brings severe damage to individuals and enterprises alike.
 
 Protection of Information and Reputation
